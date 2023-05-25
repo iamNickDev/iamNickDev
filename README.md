@@ -1,38 +1,88 @@
-<h1 align="center">Hi 👋, I'm Nandkishore Geete</h1>
-<h3 align="center">An enthusiastic blockchain engineer hailing from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif">
+# Hi there! 👋
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnickdev&label=Profile%20views&color=0e75b6&style=flat" alt="iamnickdev" /> </p>
+I'm Nandkishore, a software engineer with a passion for building high-quality software that makes a positive impact. I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
 
-<p align="left"> <a href="https://twitter.com/iamnick_dev" target="blank"><img src="https://img.shields.io/twitter/follow/iamnick_dev?logo=twitter&style=for-the-badge" alt="iamnick_dev" /></a> </p>
+## 🧐 About 
 
-- 🔭 I’m currently working on **Centralized Crypto Exchange, Bitcoin Lightning Network**
+-  🧔 A boy from a small village in MadhyaPradesh, India🇮🇳. who likes building things with technologies🌏.
 
-- 🌱 I’m currently learning **Blockchain, EVM, Solidity, Node.js, Go, Rust**
+-  🧗‍♀️ Helping folks learn about WEB3 at [LinkedIN](https://www.linkedin.com/in/nandkishore-geete-69649b185/)
 
-- 💬 Ask me about **EVM | Building DApps | Solidity | JavaScript | Hardhat | Ethereum | Smart Contracts | DeFi | NFTs | consensus | Chainlink | IPFS | DAOs| Layer2 | Cryptography**
+-  ❤️ I love what i do.
 
-- 📫 How to reach me **iamnickweb3dev@gmail.com**
+## 🚀 Skills and Expertise
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c1Xuo8it4U__M2Nq9D9-gIg1pA92x7fP/view](https://drive.google.com/file/d/1c1Xuo8it4U__M2Nq9D9-gIg1pA92x7fP/view)
+Here are some of the technologies and tools I've worked with:
 
-- ⚡ Fun fact **I am funny**
+**Programming languages ⛰️** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamnick_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnick_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nandkishoregeete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandkishoregeete" height="30" width="40" /></a>
-<a href="https://instagram.com/iamnick___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamnick___" height="30" width="40" /></a>
-<a href="https://discord.gg/iamnickDev#7252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamnickDev#7252" height="30" width="40" /></a>
-</p>
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Web development 🌍**
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnickdev&show_icons=true&locale=en&layout=compact" alt="iamnickdev" /></p> -->
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnickdev&show_icons=true&locale=en" alt="iamnickdev" /></p> -->
+**Backend development 🌳**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnickdev&" alt="iamnickdev" /></p>
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+
+**Tools and frameworks 🛠️**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Zsh](https://img.shields.io/badge/Zsh-4E9A06?style=for-the-badge&logo=gnupg&logoColor=white)](https://www.zsh.org/)
+[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/)
+
+**Blockchain ⛓️** 
+
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)](https://web3js.readthedocs.io/)
+[![Ethers.js](https://img.shields.io/badge/Ethers.js-276FD6?style=for-the-badge&logo=ethers-dot-js&logoColor=white)](https://docs.ethers.io/)
+[![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://ipfs.io/)
+[![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
+[![Stellar](https://img.shields.io/badge/Stellar-120A8F?style=for-the-badge&logo=stellar&logoColor=white)](https://www.stellar.org/)
+[![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)](https://polygon.technology/)
+[![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-DEA584?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
+[![Truffle](https://img.shields.io/badge/Truffle-3C3C3D?style=for-the-badge&logo=truffle&logoColor=white)](https://www.trufflesuite.com/)
+[![Foundry](https://img.shields.io/badge/Foundry-40BAGC?style=for-the-badge&logo=foundry&logoColor=white)](https://foundryvtt.com/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
+[![NFT](https://img.shields.io/badge/NFT-0078FF?style=for-the-badge&logo=nft&logoColor=white)](https://opensea.io/)
+[![Cryptography](https://img.shields.io/badge/Cryptography-833AB4?style=for-the-badge&logo=cryptography&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
+
+## 🌱 Current Projects
+
+Here are some of my ongoing projects:
+
+- [Centralized Crypto Exchange]: This project aims to develop a centralized cryptocurrency exchange same as binance. Key features include user registration with KYC procedures, secure login with optional 2FA, p2p tradings, spot trading, hot wallet management, custodial wallet management etc.
+- [Bitcoin Lighting Network]: Setup bitcoin lightning node and write APIs to be integrated into clients current mobile app. Design the API by defining the endpoints, request, and response formats, authentication methods, and error handling. after that i can proceed with developing the API endpoints, which include functionalities such as creating, reading, updating, and deleting test transactions.
+
+## 🏆 Achievements
+
+- Certificate of Appreciation for conducting a three-day workshop on *Bootcamp on solidity smart contracts development* | 🏫 Issued by udemy ( 2022 ) 
+- Ethereum Protocol Fellow ( Oct 2022 - Jan 2023 )
+
+## 💬 Contact Me
+
+If you'd like to get in touch, feel free to send me a message
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamnick_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandkishore-geete-69649b185/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamnickweb3dev@gmail.com)
+
+Thanks for checking out my profile!
