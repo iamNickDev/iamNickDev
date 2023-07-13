@@ -9,7 +9,7 @@ I'm Nandkishore, a software engineer with a passion for building high-quality so
 
 -  🧗‍♀️ Helping folks learn about WEB3 at [LinkedIN](https://www.linkedin.com/in/nandkishore-geete-69649b185/)
 
--  🖥️ Find my Resume at [Nandkishore's Resume](https://drive.google.com/file/d/1USXMbH3iGh5rbpUwcNjF8pYSJvsRpW8F/view?usp=sharing)
+-  🖥️ Find my Resume at [Nandkishore's Resume](https://drive.google.com/file/d/1VQ9Uas2u6x6RnoEwRVEAaLuYBXmjRBrX/view?usp=drive_link)
 
 -  ❤️ I love what i do.
 
