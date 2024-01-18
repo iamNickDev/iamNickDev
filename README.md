@@ -19,9 +19,11 @@ Here are some of the technologies and tools I've worked with:
 
 **Programming languages ⛰️** 
 
+[![Go](https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=Go&logoColor=white)](https://go.dev)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 
 **Backend development 🌳**
 
@@ -47,7 +49,7 @@ Here are some of the technologies and tools I've worked with:
 [![Ethers.js](https://img.shields.io/badge/Ethers.js-276FD6?style=for-the-badge&logo=ethers-dot-js&logoColor=white)](https://docs.ethers.io/)
 [![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://ipfs.io/)
 [![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com/)
-[![Stellar](https://img.shields.io/badge/Stellar-120A8F?style=for-the-badge&logo=stellar&logoColor=white)](https://www.stellar.org/)
+[![Stellar](https://img.shields.io/badge/Tron-120A8F?style=for-the-badge&logo=Tron&logoColor=white)](https://tron.network)
 [![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)](https://polygon.technology/)
 [![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
 [![Hardhat](https://img.shields.io/badge/Hardhat-DEA584?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
@@ -57,12 +59,12 @@ Here are some of the technologies and tools I've worked with:
 [![NFT](https://img.shields.io/badge/NFT-0078FF?style=for-the-badge&logo=nft&logoColor=white)](https://opensea.io/)
 [![Cryptography](https://img.shields.io/badge/Cryptography-833AB4?style=for-the-badge&logo=cryptography&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
 
-## 🌱 Current Projects
+## 🌱 Current Project
 
-Here are some of my ongoing projects:
+My ongoing project:
 
-- [Centralized Crypto Exchange]: This project aims to develop a centralized cryptocurrency exchange same as binance. Key features include user registration with KYC procedures, secure login with optional 2FA, p2p tradings, spot trading, hot wallet management, custodial wallet management etc.
-- [Bitcoin Lighting Network]: Setup bitcoin lightning node and write APIs to be integrated into clients current mobile app. Design the API by defining the endpoints, request, and response formats, authentication methods, and error handling. after that i can proceed with developing the API endpoints, which include functionalities such as creating, reading, updating, and deleting test transactions.
+- [SharkWeb Blockchain](https://sharkweb.com/): SharkWeb Blockchain is a revolutionary technology that will change the way people think about Blockchain. SharkWeb Blockchain is not just another LAYER 1 blockchain technology - it's an entirely new approach involving AI and Cyber security.
+
 
 ## 🏆 Achievements
 
