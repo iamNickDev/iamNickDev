@@ -22,8 +22,6 @@ Here are some of the technologies and tools I've worked with:
 [![Go](https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=Go&logoColor=white)](https://go.dev)
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
 
 **Backend development 🌳**
 
@@ -68,7 +66,8 @@ My ongoing project:
 
 ## 🏆 Achievements
 
-- Certificate of Appreciation for conducting a three-day workshop on *Bootcamp on solidity smart contracts development* | 🏫 Issued by udemy ( 2022 ) 
+- Certificate of Appreciation for conducting a three-day workshop on *Bootcamp on solidity smart contracts development* | 🏫 Issued by udemy ( 2022 )
+- Empowering communities through seminars, I share insights on web3 and blockchain, fostering knowledge exchange and community growth.
 - Ethereum Protocol Fellow ( Oct 2022 - Jan 2023 )
 
 ## 💬 Contact Me
