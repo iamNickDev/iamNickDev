@@ -19,9 +19,10 @@ Here are some of the technologies and tools I've worked with:
 
 **Programming languages ⛰️** 
 
-[![Go](https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=Go&logoColor=white)](https://go.dev)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Go](https://img.shields.io/badge/Go-3178C6?style=for-the-badge&logo=Go&logoColor=white)](https://go.dev)
+[![Rust](https://img.shields.io/badge/Rust-F7DF1E?style=for-the-badge&logo=Rust&logoColor=black)](https://www.rust-lang.org/)
 
 **Backend development 🌳**
 
