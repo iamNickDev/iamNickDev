@@ -5,7 +5,7 @@ I'm Nandkishore, a software engineer with a passion for building high-quality so
 
 ## 🧐 About 
 
--  🧔 A boy from a small village in MadhyaPradesh, India🇮🇳. who likes building things with technologies🌏.
+-  🧔 A boy from a small village in Madhya Pradesh, India🇮🇳. who likes building things with technology🌏.
 
 -  🌐 Find my Website at [Website](https://nkgeete.netlify.app/)
 
@@ -13,7 +13,7 @@ I'm Nandkishore, a software engineer with a passion for building high-quality so
 
 -  🖥️ Find my Resume at [Nandkishore's Resume](https://drive.google.com/file/d/1VQ9Uas2u6x6RnoEwRVEAaLuYBXmjRBrX/view?usp=drive_link)
 
--  ❤️ I love what i do.
+-  ❤️ I love what I do.
 
 ## 🚀 Skills and Expertise
 
@@ -60,13 +60,6 @@ Here are some of the technologies and tools I've worked with:
 [![NFT](https://img.shields.io/badge/NFT-0078FF?style=for-the-badge&logo=nft&logoColor=white)](https://opensea.io/)
 [![Cryptography](https://img.shields.io/badge/Cryptography-833AB4?style=for-the-badge&logo=cryptography&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
 
-## 🌱 Current Project
-
-My ongoing project:
-
-- [SharkWeb Blockchain](https://sharkweb.com/): SharkWeb Blockchain is a revolutionary technology that will change the way people think about Blockchain. SharkWeb Blockchain is not just another LAYER 1 blockchain technology - it's an entirely new approach involving AI and Cyber security.
-
-
 ## 🏆 Achievements
 
 - Certificate of Appreciation for conducting a three-day workshop on *Bootcamp on solidity smart contracts development* | 🏫 Issued by udemy ( 2022 )
@@ -79,6 +72,6 @@ If you'd like to get in touch, feel free to send me a message
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamnick_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandkishore-geete-69649b185/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamnickweb3dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandkishoregeete.dev@gmail.com)
 
 Thanks for checking out my profile!
